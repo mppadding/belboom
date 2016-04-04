@@ -1,3 +1,11 @@
-/vendor
-/node_modules
+# Don't send our environment file, this is special for every deploy
 .env
+
+# Updates file
+updates.md
+
+# Testing is done locally (in cloud9)
+/tests
+
+# Flowcharts are for development environment only!
+/resources/views/flowcharts
