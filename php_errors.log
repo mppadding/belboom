@@ -1,0 +1,100 @@
+[12-May-2015 11:11:22 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/app/Http/Requests/SendCallRequest.php on line 31
+[12-May-2015 11:55:43 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Response' not found in /home/ubuntu/workspace/app/Http/Controllers/CallController.php on line 87
+[12-May-2015 11:56:14 UTC] PHP Fatal error:  Call to undefined method Illuminate\Http\Response::json() in /home/ubuntu/workspace/app/Http/Controllers/CallController.php on line 88
+[12-May-2015 12:06:03 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Carbon\Carbon' not found in /home/ubuntu/workspace/app/Http/Controllers/CallController.php on line 88
+[12-May-2015 12:35:03 UTC] PHP Parse error:  syntax error, unexpected ''type'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/ubuntu/workspace/storage/framework/views/ef94d36fdf8aaa58908773a9fd0094f4 on line 16
+[12-May-2015 14:41:55 UTC] PHP Parse error:  syntax error, unexpected 'email' (T_STRING), expecting ']' in /home/ubuntu/workspace/storage/framework/views/48675853841c5563239032a75655f1f1 on line 11
+[12-May-2015 15:15:58 UTC] PHP Parse error:  syntax error, unexpected 'email' (T_STRING), expecting ']' in /home/ubuntu/workspace/storage/framework/views/48675853841c5563239032a75655f1f1 on line 32
+[12-May-2015 15:16:00 UTC] PHP Parse error:  syntax error, unexpected 'email' (T_STRING), expecting ']' in /home/ubuntu/workspace/storage/framework/views/48675853841c5563239032a75655f1f1 on line 32
+[12-May-2015 15:16:26 UTC] PHP Parse error:  syntax error, unexpected 'email' (T_STRING), expecting ']' in /home/ubuntu/workspace/storage/framework/views/48675853841c5563239032a75655f1f1 on line 32
+[12-May-2015 15:16:58 UTC] PHP Parse error:  syntax error, unexpected 'email' (T_STRING), expecting ']' in /home/ubuntu/workspace/storage/framework/views/48675853841c5563239032a75655f1f1 on line 32
+[12-May-2015 15:18:00 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/ubuntu/workspace/storage/framework/views/c4f1fc4c418f2c5dfe9a66d6be2aa2a3 on line 13
+[12-May-2015 18:41:43 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Auth\App\User' not found in /home/ubuntu/workspace/app/Http/Controllers/Auth/AuthController.php on line 49
+[12-May-2015 18:41:52 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Auth\App\User' not found in /home/ubuntu/workspace/app/Http/Controllers/Auth/AuthController.php on line 50
+[12-May-2015 18:41:59 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Auth\App\User' not found in /home/ubuntu/workspace/app/Http/Controllers/Auth/AuthController.php on line 50
+[12-May-2015 18:58:52 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Admin' not found in /home/ubuntu/workspace/app/Http/Controllers/AdminController.php on line 72
+[14-May-2015 10:05:10 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Mail' not found in /home/ubuntu/workspace/app/Http/Controllers/AdminController.php on line 61
+[14-May-2015 10:06:33 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Mail' not found in /home/ubuntu/workspace/app/Http/Controllers/AdminController.php on line 62
+[14-May-2015 10:07:48 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Mail' not found in /home/ubuntu/workspace/app/Http/Controllers/AdminController.php on line 62
+[14-May-2015 10:08:06 UTC] PHP Fatal error:  Class 'GuzzleHttp\Client' not found in /home/ubuntu/workspace/vendor/laravel/framework/src/Illuminate/Mail/Transport/MailgunTransport.php on line 121
+[27-May-2015 16:42:47 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ubuntu/workspace/storage/framework/views/5a58a874ff58b15662a7d3b9bccc9f26 on line 81
+[27-May-2015 16:43:20 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/ubuntu/workspace/storage/framework/views/5a58a874ff58b15662a7d3b9bccc9f26 on line 81
+[29-May-2015 07:03:11 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/ubuntu/workspace/app/Http/Controllers/CallController.php on line 130
+[29-May-2015 17:00:24 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/resources/views/test.php on line 70
+[29-May-2015 17:01:17 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/resources/views/test.php on line 70
+[04-Jun-2015 14:52:17 UTC] PHP Parse error:  syntax error, unexpected ']' in /home/ubuntu/workspace/storage/framework/views/9b40d5ef304fd00d57da26f576e48af1 on line 15
+[04-Jun-2015 15:17:49 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Color' not found in /home/ubuntu/workspace/app/Http/Controllers/ColorController.php on line 47
+[04-Jun-2015 15:47:49 UTC] PHP Parse error:  syntax error, unexpected ''ColorController@show'' (T_CONSTANT_ENCAPSED_STRING) in /home/ubuntu/workspace/app/Http/routes.php on line 20
+[04-Jun-2015 15:48:14 UTC] PHP Parse error:  syntax error, unexpected ''ColorController@show'' (T_CONSTANT_ENCAPSED_STRING) in /home/ubuntu/workspace/app/Http/routes.php on line 20
+[05-Jun-2015 15:06:42 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /home/ubuntu/workspace/storage/framework/views/9b40d5ef304fd00d57da26f576e48af1 on line 23
+[18-Jun-2015 15:12:13 UTC] PHP Fatal error:  Class 'Registrar' not found in /home/ubuntu/workspace/app/Http/Controllers/Auth/AuthController.php on line 49
+[28-Mar-2016 18:27:04 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Mail' not found in /home/ubuntu/workspace/app/Http/Controllers/MailController.php on line 19
+[28-Mar-2016 18:28:12 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Mail' not found in /home/ubuntu/workspace/app/Http/Controllers/MailController.php on line 19
+[28-Mar-2016 19:30:50 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Call' not found in /home/ubuntu/workspace/app/Http/Controllers/ResultController.php on line 223
+[29-Mar-2016 08:39:48 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Mail' not found in /home/ubuntu/workspace/app/Http/Controllers/AdminController.php on line 83
+[31-Mar-2016 17:38:14 UTC] PHP Parse error:  syntax error, unexpected 'id' (T_STRING) in /home/ubuntu/workspace/storage/framework/views/4117ffd544daaeda53b5faf4c3487fce on line 34
+[31-Mar-2016 18:44:24 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ubuntu/workspace/storage/framework/views/b5bdc92af392e1a0237f7dd3d03ce18f on line 18
+[31-Mar-2016 18:44:26 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ubuntu/workspace/storage/framework/views/b5bdc92af392e1a0237f7dd3d03ce18f on line 18
+[31-Mar-2016 18:47:44 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/ubuntu/workspace/app/Http/Controllers/ResultController.php on line 245
+[31-Mar-2016 18:58:19 UTC] PHP Parse error:  syntax error, unexpected '[', expecting '(' in /home/ubuntu/workspace/app/Http/Controllers/ResultController.php on line 233
+[31-Mar-2016 18:58:21 UTC] PHP Parse error:  syntax error, unexpected '[', expecting '(' in /home/ubuntu/workspace/app/Http/Controllers/ResultController.php on line 233
+[31-Mar-2016 18:59:01 UTC] PHP Parse error:  syntax error, unexpected '[', expecting '(' in /home/ubuntu/workspace/app/Http/Controllers/ResultController.php on line 233
+[31-Mar-2016 18:59:02 UTC] PHP Parse error:  syntax error, unexpected '[', expecting '(' in /home/ubuntu/workspace/app/Http/Controllers/ResultController.php on line 233
+[31-Mar-2016 18:59:03 UTC] PHP Parse error:  syntax error, unexpected '[', expecting '(' in /home/ubuntu/workspace/app/Http/Controllers/ResultController.php on line 233
+[31-Mar-2016 18:59:04 UTC] PHP Parse error:  syntax error, unexpected '[', expecting '(' in /home/ubuntu/workspace/app/Http/Controllers/ResultController.php on line 233
+[31-Mar-2016 18:59:05 UTC] PHP Parse error:  syntax error, unexpected '[', expecting '(' in /home/ubuntu/workspace/app/Http/Controllers/ResultController.php on line 233
+[31-Mar-2016 18:59:05 UTC] PHP Parse error:  syntax error, unexpected '[', expecting '(' in /home/ubuntu/workspace/app/Http/Controllers/ResultController.php on line 233
+[31-Mar-2016 18:59:07 UTC] PHP Parse error:  syntax error, unexpected '[', expecting '(' in /home/ubuntu/workspace/app/Http/Controllers/ResultController.php on line 233
+[31-Mar-2016 18:59:08 UTC] PHP Parse error:  syntax error, unexpected '[', expecting '(' in /home/ubuntu/workspace/app/Http/Controllers/ResultController.php on line 233
+[31-Mar-2016 18:59:09 UTC] PHP Parse error:  syntax error, unexpected '[', expecting '(' in /home/ubuntu/workspace/app/Http/Controllers/ResultController.php on line 233
+[31-Mar-2016 18:59:09 UTC] PHP Parse error:  syntax error, unexpected '[', expecting '(' in /home/ubuntu/workspace/app/Http/Controllers/ResultController.php on line 233
+[31-Mar-2016 19:03:32 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/app/Http/Controllers/ResultController.php on line 238
+[31-Mar-2016 19:03:37 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/app/Http/Controllers/ResultController.php on line 238
+[31-Mar-2016 19:07:12 UTC] PHP Parse error:  syntax error, unexpected ']' in /home/ubuntu/workspace/app/Http/Controllers/ResultController.php on line 237
+[31-Mar-2016 19:07:16 UTC] PHP Parse error:  syntax error, unexpected ']' in /home/ubuntu/workspace/app/Http/Controllers/ResultController.php on line 237
+[02-Apr-2016 13:40:17 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ubuntu/workspace/app/Http/Controllers/ResultController.php on line 98
+[02-Apr-2016 13:40:35 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ubuntu/workspace/app/Http/Controllers/ResultController.php on line 98
+[02-Apr-2016 13:40:47 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/app/Http/Controllers/ResultController.php on line 102
+[02-Apr-2016 14:04:10 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/ubuntu/workspace/app/Http/Controllers/ResultController.php on line 99
+[02-Apr-2016 14:04:16 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/ubuntu/workspace/app/Http/Controllers/ResultController.php on line 99
+[02-Apr-2016 14:24:48 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/ubuntu/workspace/app/Http/Controllers/ResultController.php on line 99
+[02-Apr-2016 14:26:15 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/ubuntu/workspace/app/Http/Controllers/ResultController.php on line 99
+[02-Apr-2016 14:26:31 UTC] PHP Fatal error:  Cannot redeclare App\Company::groups() in /home/ubuntu/workspace/app/Company.php on line 52
+[02-Apr-2016 14:31:02 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Auth' not found in /home/ubuntu/workspace/app/Http/Controllers/RoleController.php on line 21
+[02-Apr-2016 15:31:04 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/ubuntu/workspace/app/Http/Controllers/ResultController.php on line 101
+[03-Apr-2016 13:53:42 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/ubuntu/workspace/app/Http/Controllers/ResultController.php on line 101
+[03-Apr-2016 13:54:49 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/ubuntu/workspace/app/Http/Controllers/ResultController.php on line 101
+[03-Apr-2016 15:16:10 UTC] PHP Fatal error:  Call to a member function has() on a non-object in /home/ubuntu/workspace/app/Http/Controllers/AdminController.php on line 26
+[03-Apr-2016 15:18:36 UTC] PHP Fatal error:  Call to undefined method Illuminate\Support\Facades\Request::session() in /home/ubuntu/workspace/app/Http/routes.php on line 55
+[03-Apr-2016 16:59:09 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/app/Http/routes.php on line 51
+[03-Apr-2016 16:59:14 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/app/Http/routes.php on line 51
+[03-Apr-2016 16:59:15 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/app/Http/routes.php on line 51
+[03-Apr-2016 16:59:18 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/app/Http/routes.php on line 51
+[03-Apr-2016 16:59:18 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/app/Http/routes.php on line 51
+[03-Apr-2016 16:59:19 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/app/Http/routes.php on line 51
+[03-Apr-2016 16:59:20 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/app/Http/routes.php on line 51
+[03-Apr-2016 16:59:20 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/app/Http/routes.php on line 51
+[03-Apr-2016 16:59:21 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/app/Http/routes.php on line 51
+[03-Apr-2016 16:59:21 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/app/Http/routes.php on line 51
+[03-Apr-2016 16:59:22 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/app/Http/routes.php on line 51
+[03-Apr-2016 16:59:23 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/app/Http/routes.php on line 51
+[03-Apr-2016 16:59:25 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/app/Http/routes.php on line 51
+[03-Apr-2016 16:59:26 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/app/Http/routes.php on line 51
+[03-Apr-2016 16:59:26 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/app/Http/routes.php on line 51
+[03-Apr-2016 16:59:26 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/app/Http/routes.php on line 51
+[03-Apr-2016 16:59:27 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/app/Http/routes.php on line 51
+[03-Apr-2016 16:59:27 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/app/Http/routes.php on line 51
+[03-Apr-2016 16:59:28 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/app/Http/routes.php on line 51
+[03-Apr-2016 16:59:28 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/app/Http/routes.php on line 51
+[03-Apr-2016 16:59:28 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/app/Http/routes.php on line 51
+[03-Apr-2016 16:59:29 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/app/Http/routes.php on line 51
+[03-Apr-2016 16:59:30 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/app/Http/routes.php on line 51
+[03-Apr-2016 17:28:32 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/app/Http/routes.php on line 174
+[04-Apr-2016 08:44:43 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Auth\Register' not found in /home/ubuntu/workspace/app/Http/Controllers/Auth/AuthController.php on line 43
+[04-Apr-2016 08:50:09 UTC] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/ubuntu/workspace/storage/framework/views/a01ed2515d5521724b5d84a0b8cf1fa7 on line 18
+[04-Apr-2016 08:57:28 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/ubuntu/workspace/storage/framework/views/390c161762ded47ca5ca633e42f51d13 on line 3
+[04-Apr-2016 09:04:52 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/ubuntu/workspace/storage/framework/views/390c161762ded47ca5ca633e42f51d13 on line 3
+[04-Apr-2016 15:09:37 UTC] PHP Fatal error:  Class 'Register' not found in /home/ubuntu/workspace/app/Http/routes.php on line 58
+[04-Apr-2016 15:15:18 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/ubuntu/workspace/storage/framework/views/390c161762ded47ca5ca633e42f51d13 on line 3
+[04-Apr-2016 15:15:36 UTC] PHP Fatal error:  Class 'Register' not found in /home/ubuntu/workspace/app/Http/routes.php on line 60
+[04-Apr-2016 15:15:36 UTC] PHP Fatal error:  Class 'Register' not found in /home/ubuntu/workspace/app/Http/routes.php on line 60

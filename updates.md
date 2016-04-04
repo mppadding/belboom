@@ -1,0 +1,7 @@
+- ~~Opdrachtgever wil graag aantal niet gereageerde mensen zien~~
+- ~~Verschillende testen moeten te onderscheiden zijn --> Hier hebben wij al een oplossing voor~~
+- Veiligheid --> Credit waarschuwingen
+- Beschrijving, maak het duidelijk voor je klanten
+- Contact zoeken met Luuk voor verdere uitbouw project
+- ~~Grafiek klopt niet.~~
+- Verschillende 'bedrijven'.

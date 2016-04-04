@@ -1,0 +1,1 @@
+{{ route('resultaten.json', []) }}

@@ -1,0 +1,1 @@
+<h3>Hallo {{ $user->name }}, je bent geaccepteerd!</h3>

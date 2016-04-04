@@ -1,0 +1,1 @@
+curl -s --user 'api:key-fcacd865589b112a134196ec2274062a' https://api.mailgun.net/v3/mg.codreon.com -F from='Excited User <excited@samples.mailgun.org>' -F to='mppadding@gmail.com' -F subject='Hello' -F text='Testing some Mailgun awesomeness!'
