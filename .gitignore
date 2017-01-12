@@ -9,3 +9,9 @@ updates.md
 
 # Flowcharts are for development environment only!
 /resources/views/flowcharts
+
+# Dont upload our c9 settings
+/.c9
+
+composer.lock
+php_errors.log
